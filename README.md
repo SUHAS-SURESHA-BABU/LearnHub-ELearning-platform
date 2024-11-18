@@ -36,7 +36,7 @@ This online learning platform is designed to enhance student engagement and faci
 
 **Project Report:** [View the full project report (PDF)](./Documentation.pdf)
 
-**Demo Video:** [To view the demo video](./LearnHub%20Demo.mkv)
+**Demo Video:** [To view the demo video](https://drive.google.com/file/d/1Uxsi-6nVnCJHkIMTg7CFQtv2fTrNtNdR/view)
 
 ---
 
