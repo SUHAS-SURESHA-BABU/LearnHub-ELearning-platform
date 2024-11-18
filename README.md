@@ -34,7 +34,7 @@ We are the students of **Computer Science and Engineering** (CSE) department pur
 This online learning platform is designed to enhance student engagement and facilitate instructor-student interaction through a user-friendly, feature-rich web interface. It includes features like course enrollment, access to educational content, forum discussions, and profile management. This web app is built with the MERN stack, ensuring a seamless user experience and efficient data management.
 
 
-**Project Report:** [View the full project report (PDF)](./Documentation.pdf)
+**Project Report:** [View the full project report (PDF)](https://drive.google.com/file/d/1PmW2WtsXFNF1TOFmNXbiZQNHNTWy4K3d/view?usp=drive_link)
 
 **Demo Video:** [To view the demo video](https://drive.google.com/file/d/1Uxsi-6nVnCJHkIMTg7CFQtv2fTrNtNdR/view)
 
