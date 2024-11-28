@@ -56,7 +56,7 @@ const AdminPage = () => {
   };
 
   const handleDeleteCourse = async (courseId) => {
-    const confirmed = window.confirm('Are you sure you want to delete this course? This action cannot be undone.');
+    const confirmed = window.confirm('Are you sure  to you want to delete this course? This action cannot be undone.');
     if (confirmed) {
       try {
         await axios.delete(`${import.meta.env.VITE_REACT_APP_BACKEND_BASEURL}/admin/courses/${courseId}`,{
